@@ -1,4 +1,4 @@
-# hasenfrantz-ancrene
+# hasenfratz-ancrene
 
 This repository is for the edition _Ancrene Wisse_, edited by Robert Hasenfratz. It contains:
 
